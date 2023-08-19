@@ -1,9 +1,9 @@
 {
-  "name": "@ZeRodolfo/dfcom-crescieperdi-mfe-util-ui",
+  "name": "@zerodolfo/dfcom-crescieperdi-mfe-util-ui",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/ZeRodolfo"
+    "@ZeRodolfo:registry": "https://npm.pkg.github.com"
   },
-  "version": "0.0.1-beta.0.1",
+  "version": "0.0.1-beta.0.2",
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs",
     "test": "jest",
